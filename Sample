@@ -9,6 +9,7 @@ public class Sample
     System.out.println("change remote issue45");
    System.out.println("create branch issue 46");
 
+   System.out.println("another remote change!");
 
     
   }
