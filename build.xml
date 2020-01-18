@@ -5,7 +5,7 @@
      project    
      description
                    
-     DELL                                                                
+     DELL  12Gig ram                                                              
      ====================================================================== -->
 <project name="project" default="default">
     <description>
